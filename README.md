@@ -87,7 +87,8 @@
 
 ## 🌐 PORTFOLIO ACCESS
 
-🔗 https://techy-srishanth.lovable.app
+🔗 techy-srishanth-portfolio.vercel.app
+
 
 ---
 
