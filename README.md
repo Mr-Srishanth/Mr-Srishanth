@@ -1,74 +1,56 @@
-# 👋 Arrabola Srishanth
+# Arrabola Srishanth
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4F46E5&center=true&vCenter=true&size=24&width=600&lines=AI+%26+ML+Student;Python+Developer;Future+Software+Engineer;Building+Smart+Solutions" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=120&section=header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=6B7280&center=true&vCenter=true&size=20&width=500&lines=AI+%26+ML+Student;Python+Developer;Future+Software+Engineer" />
 </p>
 
 ---
 
-## 💫 About Me
+## About Me
 
-* 🎓 CSE (AI & ML) Student
-* 🤖 Interested in AI & Software Development
-* 🚀 Building projects and improving daily
-* 💡 Goal: Become a strong software engineer
+I am a Computer Science (AI & ML) student focused on building strong fundamentals in software development and artificial intelligence.
+Currently improving problem-solving skills and working on practical projects.
 
 ---
 
-## 🧠 Learning
+## Skills
 
 * Python
+* C Programming
 * Data Structures & Algorithms
-* Machine Learning
+* Git (learning)
+* React (learning)
 
 ---
 
-## 🛠 Tech Stack
+## Projects
+
+* **Python Calculator** – Basic CLI-based calculator
+* **C Programming Practice** – Core programming concepts
+* **Data Structures Practice** – Implementation of DS concepts
+
+---
+
+## GitHub
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,git" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Srishanth&show_icons=true&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Srishanth&layout=compact&hide_border=true"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Portfolio
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Srishanth&repo=Python-Calculator&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Srishanth&repo=C-Programming&theme=tokyonight&hide_border=true"/>
-</p>
+https://techy-srishanth-portfolio.vercel.app/
 
 ---
 
-## 📊 GitHub Stats
+## Contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Srishanth&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Srishanth&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Portfolio
-
-🔗 https://techy-srishanth-portfolio.vercel.app/
-
----
-
-## 🤝 Connect
-
-<p align="center">
-  <a href="https://github.com/Mr-Srishanth"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/a-srishanth-300605397"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:a.srishanth1733@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:4F46E5&height=120&section=footer"/>
-</p>
+* GitHub: https://github.com/Mr-Srishanth
+* LinkedIn: https://www.linkedin.com/in/a-srishanth-300605397
+* Email: [a.srishanth1733@gmail.com](mailto:a.srishanth1733@gmail.com)
