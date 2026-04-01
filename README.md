@@ -1,28 +1,116 @@
-# 💫 About Me:
-# Hi 👋 I'm Arrabola Srishanth<br><br><p align="center"><br>  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+%26+ML+Student;Python+Developer;Future+Software+Engineer;Building+Smart+Solutions+🚀" /><br></p><br><br>---<br><br>## 💻 About Me<br><br>* 🎓 CSE (AI & ML) Student<br>* 🤖 Passionate about Artificial Intelligence & Software Development<br>* 🚀 Love building intelligent and useful applications<br>* 🌱 Currently improving problem-solving & coding skills<br><br>---<br><br>## 🧠 Currently Learning<br><br>* Python<br>* Data Structures<br>* Machine Learning<br><br>---<br><br>## 🛠 Tech Stack<br><br>* 💻 C Programming<br>* 🐍 Python<br>* 📊 Data Structures<br>* ⚙️ Algorithms<br><br>### 🔜 Upcoming<br><br>* ⚛️ React<br>* 🔧 Git<br><br>---<br><br>## 🚀 Projects<br><br>* 🧮 Python Calculator<br>* 💻 C Programming Practice<br>* 📊 Data Structures Practice<br><br>---<br><br>## 📊 GitHub Stats<br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Srishanth&show_icons=true&theme=tokyonight" /><br>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Srishanth&theme=tokyonight" /><br></p><br><br>---<br><br>## 🌐 Portfolio<br><br>🔗 https://techy-srishanth.lovable.app<br><br>---<br><br>## 📫 Connect With Me<br><br>* 💼 GitHub: https://github.com/Mr-Srishanth<br>* 🔗 LinkedIn: https://www.linkedin.com/in/a-srishanth-300605397<br>* 📧 Email: [a.srishanth1733@gmail.com](mailto:a.srishanth1733@gmail.com)<br><br>---<br><br>## ⚡ Fun Fact<br><br>I enjoy transforming ideas into intelligent real-world solutions 🤖✨<br><br>
+# ⚡ Arrabola Srishanth | AI Engineer in Progress 🤖
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+My+Digital+Universe+🌌;AI+%26+ML+Explorer;Python+Developer;Future+Tech+Innovator;Building+Intelligent+Systems+🚀" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.srishanth14) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a.srishanth1733@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mr-Srishanth&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mr-Srishanth&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Srishanth&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mr-Srishanth&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mr-Srishanth&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=header"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mr-Srishanth&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 SYSTEM STATUS
+
+```diff
++ Name: Arrabola Srishanth
++ Role: AI & ML Student
++ Status: Learning | Building | Growing 🚀
++ Mission: Become Top 1% Software Engineer
+```
+
+---
+
+## 🚀 ABOUT ME
+
+🎓 CSE (AI & ML) Student
+🤖 Passionate about Artificial Intelligence & Software Development
+💡 I build intelligent systems & smart solutions
+⚡ Obsessed with growth and coding
+
+---
+
+## 🧬 TECH DNA
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c" />
+</p>
+
+---
+
+## 🧠 CURRENT TRAINING ARC
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&lines=Python+Mastery;Data+Structures+%26+Algorithms;Machine+Learning+Basics;Problem+Solving+Mode+ON+⚡" />
+</p>
+
+---
+
+## 🚀 PROJECT ZONE
+
+| Project              | Description               |
+| -------------------- | ------------------------- |
+| 🧮 Python Calculator | Command-line calculator   |
+| 💻 C Practice        | Core programming concepts |
+| 📊 Data Structures   | DS implementations        |
+
+---
+
+## 📊 GITHUB ANALYTICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Srishanth&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Srishanth&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Srishanth&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 ACHIEVEMENTS UNLOCKED
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mr-Srishanth&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 🐍 CONTRIBUTION MATRIX
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌐 PORTFOLIO ACCESS
+
+🔗 https://techy-srishanth.lovable.app
+
+---
+
+## 🌍 CONNECT PROTOCOL
+
+<p align="center">
+  <a href="https://github.com/Mr-Srishanth"><img src="https://img.shields.io/badge/GitHub-System-000?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/a-srishanth-300605397"><img src="https://img.shields.io/badge/LinkedIn-Network-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:a.srishanth1733@gmail.com"><img src="https://img.shields.io/badge/Email-Access-D14836?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://instagram.com/mr.srishanth14"><img src="https://img.shields.io/badge/Instagram-Visual-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+## ⚡ FINAL MESSAGE
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&center=true&vCenter=true&lines=Code.+Build.+Innovate.;Dream+Big.+Execute+Bigger.;Future+AI+Engineer+🔥" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F7FF&height=120&section=footer"/>
+</p>
 
