@@ -1,56 +1,86 @@
-# Arrabola Srishanth
+# Srishanth.ai
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6B7280&center=true&vCenter=true&size=20&width=500&lines=AI+%26+ML+Student;Python+Developer;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6366F1&center=true&vCenter=true&size=24&width=700&lines=Initializing+Srishanth.ai...;Building+Intelligent+Systems;Learning+Every+Day;Future+Engineer+in+Progress" />
 </p>
 
 ---
 
-## About Me
+## 🧠 Core System
 
-I am a Computer Science (AI & ML) student focused on building strong fundamentals in software development and artificial intelligence.
-Currently improving problem-solving skills and working on practical projects.
-
----
-
-## Skills
-
-* Python
-* C Programming
-* Data Structures & Algorithms
-* Git (learning)
-* React (learning)
+```yaml id="m81x9p"
+name: Arrabola Srishanth
+system: Srishanth.ai
+role: AI & ML Student
+mode: learning | building | evolving
+vision: Create intelligent systems that solve real problems
+```
 
 ---
 
-## Projects
+## ⚡ Execution Layer
 
-* **Python Calculator** – Basic CLI-based calculator
-* **C Programming Practice** – Core programming concepts
-* **Data Structures Practice** – Implementation of DS concepts
+* Learn → deeply (not surface level)
+* Build → small but meaningful systems
+* Improve → consistently every day
 
 ---
 
-## GitHub
+## 🧬 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,git,react" />
+</p>
+
+---
+
+## 🚀 Active Systems (Projects)
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Srishanth&repo=Python-Calculator&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Srishanth&repo=C-Programming&hide_border=true"/>
+
+</p>
+
+---
+
+## 📊 System Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mr-Srishanth&show_icons=true&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Srishanth&layout=compact&hide_border=true"/>
-</p>
+---
+
+## 🌐 Interface
+
+🔗 https://techy-srishanth-portfolio.vercel.app/
 
 ---
 
-## Portfolio
+## 🤝 Network
 
-https://techy-srishanth-portfolio.vercel.app/
+GitHub → https://github.com/Mr-Srishanth
+LinkedIn → https://www.linkedin.com/in/a-srishanth-300605397
+Email → [a.srishanth1733@gmail.com](mailto:a.srishanth1733@gmail.com)
 
 ---
 
-## Contact
+## ⚡ Core Philosophy
 
-* GitHub: https://github.com/Mr-Srishanth
-* LinkedIn: https://www.linkedin.com/in/a-srishanth-300605397
-* Email: [a.srishanth1733@gmail.com](mailto:a.srishanth1733@gmail.com)
+```
+while(alive) {
+    learn();
+    build();
+    improve();
+}
+```
+
+---
+
+## 🧠 Final Thought
+
+> I am not a finished product.
+> I am a system under continuous development.
