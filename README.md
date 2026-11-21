@@ -1,10 +1,6 @@
 # 👋 Arrabola Srishanth
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mr-Srishanth/main/banner.png" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=6366F1&center=true&vCenter=true&size=24&width=600&lines=AI+%26+ML+Student;Building+Smart+Systems;Future+Software+Engineer" />
 </p>
 
@@ -37,8 +33,8 @@ goal: Becoming a strong developer 🚀
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Srishanth&repo=Python-Calculator&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Srishanth&repo=C-Programming&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Srishanth&repo=project-nova&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Srishanth&repo=project-nova-ai&theme=tokyonight&hide_border=true"/>
 </p>
 
 </details>
@@ -61,14 +57,6 @@ goal: Becoming a strong developer 🚀
 
 ---
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 ## 🌐 Portfolio
 
 <p align="center">
@@ -83,6 +71,6 @@ goal: Becoming a strong developer 🚀
 
 <p align="center">
   <a href="https://github.com/Mr-Srishanth"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/a-srishanth-300605397"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/arrabola-srishanth"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:a.srishanth1733@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/></a>
 </p>
