@@ -60,7 +60,7 @@ goal: Becoming a strong developer 🚀
 ## 🌐 Portfolio
 
 <p align="center">
-  <a href="https://techy-srishanth-portfolio.vercel.app/">
+  <a href="https://srishanth-dev.vercel.app/">
     <img src="https://img.shields.io/badge/Open%20Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
